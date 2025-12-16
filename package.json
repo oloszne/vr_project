@@ -1,0 +1,21 @@
+{
+  "name": "project-3js",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.2.4"
+  },
+  "dependencies": {
+    "@dgreenheck/three-pinata": "^2.0.1",
+    "@tweenjs/tween.js": "^25.0.0",
+    "ammo.js": "^0.0.10",
+    "ammojs-typed": "^1.0.6",
+    "three": "^0.181.2"
+  }
+}
